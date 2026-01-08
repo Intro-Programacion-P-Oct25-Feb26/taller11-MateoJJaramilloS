@@ -1,0 +1,7 @@
+Para mi la parte más compleja fue recorre el arreglo bidimiensional. Cometi 
+varios errores en el sintaxis del ejercicio por ejemplo ponia s% cuando era
+al revés. La parte que considero más importa es la forma de recorrer el arreglo.
+Aprendí a ver detalles que por lo general que por minusculo que sea el error 
+puede que no se ejecute, por eso hay que estar atentos de cada detalle del 
+código.
+

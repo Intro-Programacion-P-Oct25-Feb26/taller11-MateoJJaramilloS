@@ -1,0 +1,5 @@
+Necesito varios arreglos y funcion para el programa, también se debe pedir varios
+datos al usuario e ir ordenando, hacer cálculos matemáticos y guardar esos resul-
+tados en otro arreglo, y generar un procedimiento donde se encuentra el reporte.
+Espero obtener los datos ordenados correctamente y que los arreglos esten bien 
+colocados, pero tambien ir concatenando el reporte de manera correcta.
