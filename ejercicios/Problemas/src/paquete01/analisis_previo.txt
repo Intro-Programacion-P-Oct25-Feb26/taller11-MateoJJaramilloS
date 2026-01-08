@@ -1,0 +1,5 @@
+Los datos que necesita el programa para que funcione son una variable reporte para
+ir concatenando, más sería como ir ordenando lo que va en la variable reporte y lo
+que se va a imprimir; dentro de la función usare ciclo para el arreglo bidimensional
+y tambien debo usar un print para poder mostrar el reporte y usar condicional. 
+El resultado que espero obtener es tener los pares en una linea ordenados

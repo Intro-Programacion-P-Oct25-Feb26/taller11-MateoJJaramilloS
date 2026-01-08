@@ -20,7 +20,18 @@ public class Problema1 {
     }
 
     public static void imprimirDatos(int[][] datos) {
+        String reporte = "";
+        int par = 0;
+        for (int e = 0; e < datos.length; e++) {
+            for (int a = 0; a < datos[e].length; a++) {
+                if (datos[e][a] % 2 == 0) {
+                    par = datos [e][a];
+                    reporte = String.format("%s %d", reporte, par);
+                }
 
+            }
+        }
+        System.out.printf("%s",reporte);
     }
 
 }
