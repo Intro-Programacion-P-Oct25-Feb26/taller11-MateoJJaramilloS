@@ -1,0 +1,6 @@
+Más que dificil estuvo largo, todas la funciones estan usando ciclo que ayuda a 
+recorrer los arreglos e ir colocando los datos que se le pide al usuario e ir 
+ordenando. El error que tuvo fue con el orden de las llaves que me confudí haciendo
+una función dentro de otra función, pero usando el refactor e ir leyendo el
+código en orden pude corregir el error. Aprendi que las llaves tienen que tomarse
+mucho en cuenta más porque si esta a dentro o fuera se puede considerar el código.
