@@ -1,0 +1,6 @@
+El programa necesita como datos dos arreglos bidimensionales de números enteros.  
+El proceso principal consiste en recorrer ambos arreglos y sumar cada elemento  
+que se encuentra en la misma posición. Para lograrlo se requiere utilizar  
+estructuras repetitivas que permitan recorrer filas y columnas de manera ordenada.  
+La condición clave es que ambos arreglos tengan las mismas dimensiones.  
+El resultado esperado es un nuevo arreglo con las sumas de cada posición.
