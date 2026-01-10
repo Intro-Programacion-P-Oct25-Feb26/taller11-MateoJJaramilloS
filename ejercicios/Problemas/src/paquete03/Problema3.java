@@ -21,7 +21,7 @@ public class Problema3 {
         Scanner entrada = new Scanner(System.in);
         int opcion = 0;
 
-        System.out.println("Escoja que area quiere sacar\n1: Área Cuadrado\n2: Área Triángulo\n3: Área Rectángulo\nIngrese la opción: ");
+        System.out.println("Escoja que área desea sacar\n1: Área Cuadrado\n2: Área Triángulo\n3: Área Rectángulo\nIngrese la opción: ");
         opcion = entrada.nextInt();
         do {
             if (opcion == 1) {
@@ -33,8 +33,8 @@ public class Problema3 {
                     if (opcion == 3) {
                         obtenerAreaRectangulo();
                     } else {
-                        System.out.println("Escoja una opción válida");
-                        System.out.println("Escoja que area quiere sacar\n1: Área Cuadrado\n2: Área Triángulo\n3: Área Rectángulo\nIngrese la opción: ");
+                        System.out.println("\nEscoja una opción válida\n");
+                        System.out.println("Vuelva a escoger el área desea sacar\n1: Área Cuadrado\n2: Área Triángulo\n3: Área Rectángulo\nIngrese la opción: ");
                         opcion = entrada.nextInt();
                     }
                 }

@@ -1,0 +1,5 @@
+Este ejercicio se me hizo fácil de hacer y no tuve tantas complicaciones. Pero
+donde si tuve un poquito de problema fue en ciclo para que el usuario pudiera 
+volver a ingresar una opción si colocaba una no identificada, así que use un 
+do while para que se pueda ejecutar una vez sin importar la opcion y corregía la 
+opcion usando un else al final de los tres if que llaman a los procedimientos.
