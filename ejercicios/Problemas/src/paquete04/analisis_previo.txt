@@ -1,0 +1,6 @@
+Al igual que el anterior se pide al usuario que escoja una opción para hacer la 
+operación que necesite, también se le pide datos en tipo cadena como la cédula y
+el nombre. En el proceso principal se necesita condicionales, un ciclo y las 
+funciones. El resultado que espero obtener es el correcto orden del reporte que
+arrojara los procemientos según los necesite el usuario para calcular cuanto 
+tiene que pagar.

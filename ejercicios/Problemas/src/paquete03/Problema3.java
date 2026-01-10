@@ -40,7 +40,7 @@ public class Problema3 {
                 }
             }
 
-        } while (opcion == 1 || opcion == 2 || opcion==3);
+        } while (opcion != 1 && opcion != 2 && opcion != 3);
     }
 
     public static void obtenerAreaCuadrado() {
