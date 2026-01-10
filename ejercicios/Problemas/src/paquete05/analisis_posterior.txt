@@ -1,0 +1,5 @@
+Lo más difícil fue organizar los ciclos para recorrer filas y columnas sin la 
+necesidad de confundirme, aunque sí pensé en las posiciones desde el inicio. El 
+error fue no estructurar bien la lógica de repetición, lo corregí al ordenar 
+los bucles. Aprendí que planear el recorrido antes de escribir ayuda a evitar errores
+también a como ordenar correctamente el resultado de la suma de matrizes.
