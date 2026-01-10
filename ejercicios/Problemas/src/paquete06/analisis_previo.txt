@@ -1,0 +1,6 @@
+El programa necesita como datos un arreglo de números enteros que servirá para  
+realizar cálculos estadísticos, luego el proceso principal consiste en obtener la  
+media aritmética de los valores y luego calcular la desviación estándar con  
+base en esa media. Para lograrlo se requiere recorrer el arreglo con ciclos  
+que permitan acumular y operar cada elemento de manera ordenada. El resultado  
+que espero obtener es mostrar al usuario la media aritmética y la desviación estándar.

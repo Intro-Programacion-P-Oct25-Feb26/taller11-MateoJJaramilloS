@@ -1,0 +1,5 @@
+Lo más difícil para mi fue comprender bien la fórmula de la desviación estándar,  
+porque al inicio me confundía con la raíz cuadrada y la división correcta.  
+El error que cometí fue calcular sin usar la media, lo corregí al revisar  
+paso a paso la operación. La parte más importante fue asegurar precisión  
+en cada cálculo. Aprendí que en la estadística exige mucho cuidado en los detalles.

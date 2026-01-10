@@ -5,8 +5,11 @@ opción, lo corregí ajustando la condición del ciclo, y tambien me confundí c
 signos % en el momento de hacer el reporte y lo puse al revés por eso no funcinaba.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 >>>>>>> d01bdc8075aa5ec76de0fdc2fc29869885d3b28e
 =======
 >>>>>>> d01bdc8075aa5ec76de0fdc2fc29869885d3b28e
+=======
+>>>>>>> c4c73eb03150c8ae7d887b58ad04b429bc5b1d91
