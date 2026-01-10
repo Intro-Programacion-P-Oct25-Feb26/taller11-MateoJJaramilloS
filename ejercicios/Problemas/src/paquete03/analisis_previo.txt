@@ -1,0 +1,3 @@
+Se necesita primero que el usuario escoja una opción para ver que area quiere 
+sacar, también se debe crear 3 procedimientos donde esten las operaciones y donde
+se mostrará el resultado.

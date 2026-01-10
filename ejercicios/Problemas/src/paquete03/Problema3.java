@@ -25,42 +25,49 @@ public class Problema3 {
         opcion = entrada.nextInt();
         do {
             if (opcion == 1) {
-                obtenerAreaCuadrado(); 
+                obtenerAreaCuadrado();
             } else {
                 if (opcion == 2) {
                     obtenerAreaTriangulo();
                 } else {
                     if (opcion == 3) {
                         obtenerAreaRectangulo();
+                    } else {
+                        System.out.println("Escoja una opción válida");
+                        System.out.println("Escoja que area quiere sacar\n1: Área Cuadrado\n2: Área Triángulo\n3: Área Rectángulo\nIngrese la opción: ");
+                        opcion = entrada.nextInt();
                     }
                 }
             }
 
-        } while (opcion >= 4);
+        } while (opcion == 1 || opcion == 2 || opcion==3);
     }
+
     public static void obtenerAreaCuadrado() {
         Scanner entrada = new Scanner(System.in);
-        System.out.println("Ingrese un lado de cuadrado:"); 
-        double lado= entrada.nextDouble();
-        double area = lado* lado;
-        System.out.printf("El área del cuadrado es: %s", area);
+        System.out.println("Ingrese un lado de cuadrado:");
+        double lado = entrada.nextDouble();
+        double area = lado * lado;
+        System.out.printf("El área del cuadrado es: %scm", area);
     }
+
     public static void obtenerAreaTriangulo() {
         Scanner entrada = new Scanner(System.in);
-        System.out.println("Ingrese la base del triángulo:"); 
-        double base= entrada.nextDouble();
-        System.out.println("Ingrese la altura del triángulo:"); 
-        double altura= entrada.nextDouble();
-        double area = (base*altura)/2;
-        System.out.printf("El área del triángulo es: %s", area);
+        System.out.println("Ingrese la base del triángulo:");
+        double base = entrada.nextDouble();
+        System.out.println("Ingrese la altura del triángulo:");
+        double altura = entrada.nextDouble();
+        double area = (base * altura) / 2;
+        System.out.printf("El área del triángulo es: %scm", area);
     }
+
     public static void obtenerAreaRectangulo() {
         Scanner entrada = new Scanner(System.in);
-        System.out.println("Ingrese la base del rectángulo:"); 
-        double base= entrada.nextDouble();
-        System.out.println("Ingrese la altura del rectángulo:"); 
-        double altura= entrada.nextDouble();
-        double area = base*altura;
-        System.out.printf("El área del rectángulo es: %s", area);
+        System.out.println("Ingrese la base del rectángulo:");
+        double base = entrada.nextDouble();
+        System.out.println("Ingrese la altura del rectángulo:");
+        double altura = entrada.nextDouble();
+        double area = base * altura;
+        System.out.printf("El área del rectángulo es: %scm", area);
     }
 }
