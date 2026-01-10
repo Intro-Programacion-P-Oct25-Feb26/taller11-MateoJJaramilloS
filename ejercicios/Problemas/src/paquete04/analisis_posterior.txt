@@ -4,6 +4,9 @@ El error que cometí fue no diferenciar entre validar la entrada y ejecutar la
 opción, lo corregí ajustando la condición del ciclo, y tambien me confundí con los
 signos % en el momento de hacer el reporte y lo puse al revés por eso no funcinaba.
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+>>>>>>> d01bdc8075aa5ec76de0fdc2fc29869885d3b28e
 =======
 >>>>>>> d01bdc8075aa5ec76de0fdc2fc29869885d3b28e
