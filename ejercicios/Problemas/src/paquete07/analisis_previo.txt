@@ -1,0 +1,7 @@
+El programa necesita como datos un número que indique la cantidad de elementos  
+y luego las cadenas que se ingresan por teclado, que pueden ser nombres de  
+ciudades del Ecuador. El proceso principal consiste en construir un arreglo  
+unidimensional con esas cadenas y recorrerlo para aplicar una condición sobre  
+la longitud de cada elemento, la decisión clave es verificar si la cadena tiene  
+4 o 5 caracteres. El resultado que espero es que muestre únicamente las ciudades 
+que cumplan con esa condición de longitud.
