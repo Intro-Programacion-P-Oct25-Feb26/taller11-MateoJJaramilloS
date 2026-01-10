@@ -1,4 +1,6 @@
-La parte más difícil de comprender fue el uso correcto del ciclo do-while,  
+La parte más difícil de comprender fue el uso correcto del ciclo do while,  
 porque al inicio parecía lógico repetir mientras la opción fuera válida.  
-El error cometido fue no diferenciar entre validar la entrada y ejecutar la  
-opción, lo corregí ajustando la condición del ciclo.
+El error que cometí fue no diferenciar entre validar la entrada y ejecutar la  
+opción, lo corregí ajustando la condición del ciclo, y tambien me confundí con los
+signos % en el momento de hacer el reporte y lo puse al revés por eso no funcinaba.
+
