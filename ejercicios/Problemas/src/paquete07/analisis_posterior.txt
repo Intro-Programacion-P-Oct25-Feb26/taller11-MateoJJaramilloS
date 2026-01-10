@@ -1,0 +1,5 @@
+Lo más difícil fue organizar la condición para filtrar las ciudades según  
+su cantidad de caracteres, porque al inicio confundía el criterio de longitud.  
+El error que cometí fue no validar bien la entrada, lo corregí al revisar  
+cada cadena con cuidado. La parte más importante fue aplicar la condición  
+correcta y colocando la operación correcta como || o && que hace mucho la diferencia.
