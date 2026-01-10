@@ -3,4 +3,4 @@ sacar, también se debe crear tres procedimientos donde esten las operaciones y 
 se mostrará el resultado.Tambien usaré un ciclo en caso que el usuario escogiera una
 opción inválida le de la opción de ingresar nuevamente. El resultado que quiero
 obtener es que los procedimientos den los resultados correctamentes y la opción
-que escoja el usuario si se va fuera del límite pueda volver a solicitar.
+que escoja el usuario si se va fuera del límite pueda volver a solicitar. 
